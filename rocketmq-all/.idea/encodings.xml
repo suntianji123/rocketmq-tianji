@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/buffer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/codec" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/codec-haproxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/codec-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/codec-socks" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/handler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/microbench" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/tarball" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/testsuite" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/testsuite-osgi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/transport" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/transport-rxtx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/transport-sctp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-netty-4.0.42.Final/transport-udt" charset="UTF-8" />
+  </component>
+</project>

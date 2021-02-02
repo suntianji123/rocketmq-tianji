@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="netty-transport-sctp" />
+        <module name="netty-handler" />
+        <module name="netty-transport-rxtx" />
+        <module name="netty-example" />
+        <module name="rocketmq-all" />
+        <module name="netty-transport" />
+        <module name="netty-testsuite" />
+        <module name="netty-microbench" />
+        <module name="rocketmq-remoting" />
+        <module name="netty-codec" />
+        <module name="netty-codec-haproxy" />
+        <module name="netty-buffer" />
+        <module name="netty-codec-http" />
+        <module name="netty-codec-socks" />
+        <module name="netty-common" />
+        <module name="netty-testsuite-osgi" />
+        <module name="netty-all" />
+        <module name="netty-transport-udt" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="netty-all" options="-Xlint:-options" />
+      <module name="netty-buffer" options="-Xlint:-options" />
+      <module name="netty-codec" options="-Xlint:-options" />
+      <module name="netty-codec-haproxy" options="-Xlint:-options" />
+      <module name="netty-codec-http" options="-Xlint:-options" />
+      <module name="netty-codec-socks" options="-Xlint:-options" />
+      <module name="netty-common" options="-Xlint:-options" />
+      <module name="netty-example" options="-Xlint:-options" />
+      <module name="netty-handler" options="-Xlint:-options" />
+      <module name="netty-microbench" options="-Xlint:-options" />
+      <module name="netty-testsuite" options="-Xlint:-options" />
+      <module name="netty-testsuite-osgi" options="-Xlint:-options" />
+      <module name="netty-transport" options="-Xlint:-options" />
+      <module name="netty-transport-rxtx" options="-Xlint:-options" />
+      <module name="netty-transport-sctp" options="-Xlint:-options" />
+      <module name="netty-transport-udt" options="-Xlint:-options" />
+    </option>
+  </component>
+</project>
